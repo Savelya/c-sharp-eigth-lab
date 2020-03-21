@@ -1,0 +1,11 @@
+C:\Users\Savelya\Desktop\c#\eigth_lab\bin\Debug\netcoreapp3.1\eigth_lab.exe
+C:\Users\Savelya\Desktop\c#\eigth_lab\bin\Debug\netcoreapp3.1\eigth_lab.deps.json
+C:\Users\Savelya\Desktop\c#\eigth_lab\bin\Debug\netcoreapp3.1\eigth_lab.runtimeconfig.json
+C:\Users\Savelya\Desktop\c#\eigth_lab\bin\Debug\netcoreapp3.1\eigth_lab.runtimeconfig.dev.json
+C:\Users\Savelya\Desktop\c#\eigth_lab\bin\Debug\netcoreapp3.1\eigth_lab.dll
+C:\Users\Savelya\Desktop\c#\eigth_lab\bin\Debug\netcoreapp3.1\eigth_lab.pdb
+C:\Users\Savelya\Desktop\c#\eigth_lab\obj\Debug\netcoreapp3.1\eigth_lab.csprojAssemblyReference.cache
+C:\Users\Savelya\Desktop\c#\eigth_lab\obj\Debug\netcoreapp3.1\eigth_lab.AssemblyInfoInputs.cache
+C:\Users\Savelya\Desktop\c#\eigth_lab\obj\Debug\netcoreapp3.1\eigth_lab.AssemblyInfo.cs
+C:\Users\Savelya\Desktop\c#\eigth_lab\obj\Debug\netcoreapp3.1\eigth_lab.dll
+C:\Users\Savelya\Desktop\c#\eigth_lab\obj\Debug\netcoreapp3.1\eigth_lab.pdb
